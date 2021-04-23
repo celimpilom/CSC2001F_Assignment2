@@ -1,3 +1,9 @@
+/**
+* Class to run AVL tree 
+*
+* @author Celimpilo Manqele
+* @version 1.0
+*/
 import java.io.FileNotFoundException;
 
 public class AccessAVLApp {
@@ -6,7 +12,6 @@ public class AccessAVLApp {
     public static void main(String[] args ) throws FileNotFoundException{
 
         ReadFile object = new ReadFile();
-        object.tree();
         tree = object.getTree();
         
         if (args.length == 1){
