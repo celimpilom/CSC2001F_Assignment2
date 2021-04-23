@@ -25,6 +25,11 @@ public class AccessAVLApp {
           
     }
     static String printStudent(String studentID){
+        /**
+    * Method to print stundent name and surname given the student number
+    *
+    * @param studentID the student number of a student
+    */
         BinaryTreeNode<String> foundNode = tree.find(studentID);
             if (foundNode != null){
                 String[] b = foundNode.data.split(" ");
@@ -34,7 +39,9 @@ public class AccessAVLApp {
         return "Access denied!";
             } 
     static void printAll(){
-        tree.treeOrder();
+        tree.treeOrder();/**
+        * Method to print all students
+        */
     }
 }
 
