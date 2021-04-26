@@ -1,0 +1,7 @@
+find count When n is 2000
+min: 
+ 1
+max: 
+ 13
+average: 
+ 10.464085583290881

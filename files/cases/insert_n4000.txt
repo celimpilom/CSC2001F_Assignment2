@@ -1,0 +1,7 @@
+insert count When n is 4000
+min: 
+ 2
+max: 
+ 14
+average: 
+ 6.7517854905400325

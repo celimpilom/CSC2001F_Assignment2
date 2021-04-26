@@ -1,0 +1,7 @@
+find count When n is 3500
+min: 
+ 1
+max: 
+ 15
+average: 
+ 11.332092756942457
