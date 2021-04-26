@@ -1,0 +1,5000 @@
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLPHE007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Phenyo Ndlovu
+insertcount is 
+1
+opcount is 
+1
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLLET070 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Motloung
+insertcount is 
+2
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKNOTH020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Nkuna
+insertcount is 
+2
+opcount is 
+3
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXREA001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Booi
+insertcount is 
+3
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SMTONT022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Onthatile Smith
+insertcount is 
+3
+opcount is 
+2
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DLMISA006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Isabella Dlamini
+insertcount is 
+4
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKNHLE007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Hlelokuhle Nkuna
+insertcount is 
+3
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBENZ033 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Enzokuhle Ngobeni
+insertcount is 
+4
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DVDKAT021 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katleho Davids
+insertcount is 
+4
+opcount is 
+3
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLMEL020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Melokuhle Mohlala
+insertcount is 
+5
+opcount is 
+4
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBKAM026 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamogelo Witbooi
+insertcount is 
+4
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MFKALU003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Mofokeng
+insertcount is 
+5
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSAMA004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amahle Booysen
+insertcount is 
+5
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DYNPHI001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Philasande Dyantyi
+insertcount is 
+5
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRLIN042 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lingomso Petersen
+insertcount is 
+4
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDXLET043 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Mudau
+insertcount is 
+6
+opcount is 
+2
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWLET060 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Ngwenya
+insertcount is 
+5
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHAMO046 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Buthelezi
+insertcount is 
+5
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSHIMI006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Iminathi Tshabalala
+insertcount is 
+5
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZMPH017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mpho Khoza
+insertcount is 
+6
+opcount is 
+4
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSOLO007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Olothando Booysen
+insertcount is 
+5
+opcount is 
+4
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDLUK005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luke Hendricks
+insertcount is 
+6
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHKUN007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Buthelezi
+insertcount is 
+6
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNSAMO020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Mnisi
+insertcount is 
+6
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHREA002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Mthembu
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDXSPH011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Sphesihle Mudau
+insertcount is 
+6
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSOMP016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omphile Nkosi
+insertcount is 
+5
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSLEA028 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leah Booysen
+insertcount is 
+6
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLWAR003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Warona Mogale
+insertcount is 
+6
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBBOK027 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokang Ngobeni
+insertcount is 
+5
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHKUN011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Mthembu
+insertcount is 
+7
+opcount is 
+4
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSALU029 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Nkosi
+insertcount is 
+6
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGCENZ008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Enzokuhle Ngcobo
+insertcount is 
+5
+opcount is 
+4
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLSIP038 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphesihle Mahlangu
+insertcount is 
+6
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXJAY005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Jayden Ndou
+insertcount is 
+6
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp GMDLIA002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Liam Gumede
+insertcount is 
+7
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNSTHA018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Thandolwethu Mnisi
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DMSKAR008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Adams
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNAMO036 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Motaung
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DMSJUN010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Junior Adams
+insertcount is 
+7
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNSIP023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphosethu Motaung
+insertcount is 
+7
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDKOTH010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Madikizela
+insertcount is 
+5
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSOKU003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Okuhle Booysen
+insertcount is 
+6
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLFTSH006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Molefe
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSKUN021 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Modise
+insertcount is 
+6
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KLSROR008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rorisang Klaas
+insertcount is 
+6
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTBOK028 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokang Cloete
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSONT017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Onthatile Modise
+insertcount is 
+6
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLLREA031 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Maluleke
+insertcount is 
+8
+opcount is 
+3
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSKUN009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Nkosi
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WLLROR016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rorisang Williams
+insertcount is 
+7
+opcount is 
+4
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BKSNOA004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Noah Beukes
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLELI002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Elijah Motloung
+insertcount is 
+6
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRKAR040 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Petersen
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKMIN011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Minenhle Jack
+insertcount is 
+6
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MFKLUB004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lubanzi Mofokeng
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXRET019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rethabile Ndou
+insertcount is 
+7
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHALU018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Buthelezi
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBTSH002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Jacobs
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSLUT005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luthando Booysen
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXMEL002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Melokuhle Louw
+insertcount is 
+6
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDKEMI004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Emihle Madikizela
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTJOS007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Joshua Cloete
+insertcount is 
+7
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSTJOS007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Joshua Tsotetsi
+insertcount is 
+7
+opcount is 
+4
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGPHE014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Phenyo Moeng
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LYNISA007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Isabella Olyn
+insertcount is 
+7
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTRET009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rethabile Cloete
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LYNOMP031 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omphile Olyn
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGMIA004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mia Visagie
+insertcount is 
+8
+opcount is 
+3
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLBON003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bonolo Ndlovu
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDKAT018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katlego Hendricks
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DLMALU023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Dlamini
+insertcount is 
+7
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRMIN010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Minenhle Peter
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGCOMA022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omaatla Ngcobo
+insertcount is 
+7
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZLIN027 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lingomso Khoza
+insertcount is 
+6
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SMTSIP017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphosethu Smith
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLTOFE014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ofentse Malatji
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHNKO002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Nkosenhle Mthembu
+insertcount is 
+7
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNBAY012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bayanda Motaung
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWOLO017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Olothando Ngwenya
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKRET013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rethabile Maseko
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLBAN004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bandile Ndlovu
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHESI005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Esihle Buthelezi
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLMEL012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Melokuhle Daniels
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKNKAT023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katlego Mokoena
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LYNBOK032 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Olyn
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXIMI034 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Iminathi Ndou
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NHLKAM044 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamohelo Nhlapo
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDXNKO012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Nkosenhle Mudau
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SHBKHA015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Khayone Shabangu
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BKSKAT034 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katleho Beukes
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLLREN014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reneilwe Maluleke
+insertcount is 
+8
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHLEA029 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leah Abrahams
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZALW010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alwande Khoza
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXREA013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Mosia
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSTOLE007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Olerato Tsotetsi
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXLEB003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lebogang Louw
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXOLO013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Olothando Booi
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTAMO041 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Cloete
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SMTSIP016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphosethu Smith
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWEMI005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Emihle Ngwenya
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KLSANG007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Angel Klaas
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp STHIMI017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Iminathi Sithole
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBBOK029 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Ngobeni
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGCALU019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Ngcobo
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGWAR007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Warona Moeng
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLXAVA007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Moloi
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLSIP026 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphesihle Daniels
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLTSH045 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Mohlala
+insertcount is 
+7
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp STHOMP003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omphile Sithole
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLAMA014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amahle Mogale
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHREN007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reneilwe Abrahams
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGHLE015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Hlelokuhle Visagie
+insertcount is 
+9
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLENZ039 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Enzokuhle Motloung
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDKELI005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Elijah Madikizela
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNKUN017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Motaung
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBLET025 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Letlotlo Ngobeni
+insertcount is 
+9
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTREMI014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Emihle Petersen
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHKAR022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Abrahams
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRJAY019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Jayden Peter
+insertcount is 
+9
+opcount is 
+4
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRISA011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Isabella Peter
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDKSIY010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siyabonga Madikizela
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHKHA016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Khayone Buthelezi
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBJOS009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Joshua Witbooi
+insertcount is 
+8
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXAVA004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Louw
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGCALW003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alwande Ngcobo
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZREM008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Khoza
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSALU007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Nkosi
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGAYA011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ayabonga Moeng
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLALU018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Mogale
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKNANG016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Angel Mokoena
+insertcount is 
+8
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKHONT001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Onthatile Mkhize
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKHKAT015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katlego Mkhize
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNONT023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Onthatile Motaung
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBLET025 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Witbooi
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBOTH029 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Jacobs
+insertcount is 
+7
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSFAI008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Faith Nkosi
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp STHHLE012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Hlelokuhle Sithole
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLBOK068 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Mohlala
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXENZ022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Enzokuhle Booi
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTLEB012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lebogang Cloete
+insertcount is 
+7
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKHLUP008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luphawu Mkhize
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGBOK018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Moeng
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BKSLUB003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lubanzi Beukes
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSHNKO003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Nkosenhle Tshabalala
+insertcount is 
+9
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WLLWAR008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Warona Williams
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGCLWA001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lwandle Ngcobo
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKLEA017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leah Jack
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDXREL002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Relebohile Mudau
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLTSH005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Daniels
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDXLET061 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Mudau
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DVDAMO051 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Davids
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHLET027 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Abrahams
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRKAT039 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katlego Peter
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp GMDMEL012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Melokuhle Gumede
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHREM010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Abrahams
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGKAT037 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katleho Moeng
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTOTH018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Cloete
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKJUN014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Junior Maseko
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBSIY011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siyabonga Jacobs
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DYNLUB006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lubanzi Dyantyi
+insertcount is 
+7
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WLLLUT001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luthando Williams
+insertcount is 
+9
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKNBAN022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bandile Nkuna
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKREL001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Relebohile Jack
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BLYKUN017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Baloyi
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHLEA053 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leah Mathebula
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DVDELI003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Elijah Davids
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DYNENZ006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Enzokuhle Dyantyi
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHNAL013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Naledi Buthelezi
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBJOS008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Joshua Witbooi
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CHKNAL004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Naledi Chauke
+insertcount is 
+8
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WLLAMO006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Williams
+insertcount is 
+10
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNTSH001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Motaung
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHLES007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Buthelezi
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKHLES022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Mkhize
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLLET030 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Mogale
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZNAL016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Naledi Khoza
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLREL010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Relebohile Mohlala
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBKAM006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamohelo Witbooi
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDXLET037 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Mudau
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHKAR012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Abrahams
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BKSMIA004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mia Beukes
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DLMMIA010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mia Dlamini
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKSPH009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Sphesihle Maseko
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLMIA016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mia Ndlovu
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBOTH018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Ngobeni
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CHKKAM024 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamogelo Chauke
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SMTLET061 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Smith
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSSIY017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siyabonga Booysen
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNKAM032 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamogelo Motaung
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLLEA001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leano Daniels
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGMEL007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Melokuhle Moeng
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSBOK042 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokang Modise
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGLET026 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Visagie
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKJOS011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Joshua Maseko
+insertcount is 
+9
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBROR003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rorisang Witbooi
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NHLLEB011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lebogang Nhlapo
+insertcount is 
+9
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKNAPH007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Aphelele Mokoena
+insertcount is 
+7
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NHLLES015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Nhlapo
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBLET011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Jacobs
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHMIA007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mia Buthelezi
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGCPHE006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Phenyo Ngcobo
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLLES014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Ndlovu
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTLEB016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lebogang Cloete
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLREA023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Ndlovu
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLCAL010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Caleb Mahlangu
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLOFE004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ofentse Mogale
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRBAN037 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Banele Petersen
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VNXLET067 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Van
+insertcount is 
+10
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHMPHE016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Phenyo Khumalo
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHORA018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Oratilwe Abrahams
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXBAN027 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bandile Mosia
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBJAY004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Jayden Witbooi
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WLLREA033 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Williams
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHMAMO020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Khumalo
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp RDBMIA007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mia Radebe
+insertcount is 
+9
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNSOMP016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omphile Mnisi
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp GMDOKU006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Okuhle Gumede
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BKSREA006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Beukes
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLPHE010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Phenyo Mahlangu
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGLUB007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lubanzi Moeng
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBLIK020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Likuwe Jacobs
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DLMSIP005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphesihle Dlamini
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLLLUB012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lubanzi Maluleke
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLLSIP012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphosethu Maluleke
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKNISA019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Isabella Mokoena
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLKAM022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamogelo Daniels
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHOMP036 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omphile Buthelezi
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSAVA019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Modise
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZREA002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Khoza
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DMSLUP004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luphawu Adams
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRBOK040 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokang Petersen
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLLLES022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Maluleke
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLXELI010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Elijah Moloi
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LYNKAM005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamohelo Olyn
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZREA010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Khoza
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBIMI028 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Iminathi Witbooi
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKAVA004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Maseko
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSBAN011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bandile Nkosi
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp STHSIY011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siyabonga Sithole
+insertcount is 
+9
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKLET054 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Jack
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLAVA017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Mahlangu
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SHBISA005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Isabella Shabangu
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKONT021 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Onthatile Maseko
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBAMO038 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Ngobeni
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHOMO008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omolemo Abrahams
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKAMO021 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Jack
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKAYA003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ayabonga Jack
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KLSSIY011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siyabonga Klaas
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSTEMI005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Emihle Tsotetsi
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VNXSIP013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphosethu Van
+insertcount is 
+10
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBLES011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Jacobs
+insertcount is 
+7
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSHLEA015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leano Tshabalala
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLLUP008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luphawu Mogale
+insertcount is 
+10
+opcount is 
+5
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VNXREN009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reneilwe Van
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBMEL002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Melokuhle Witbooi
+insertcount is 
+9
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGMPH005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mpho Visagie
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKNLES010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Nkuna
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHBAY017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bayanda Mathebula
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHLES034 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Mthembu
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VNXLET022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Van
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTKUN012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Cloete
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGREA028 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Moeng
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXTSH010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Ndou
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWJOS009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Joshua Ngwenya
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHKAR019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Mthembu
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KLSAMO025 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Klaas
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGLIN010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lingomso Moeng
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRAMO086 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Peter
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKNKAR040 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Mokoena
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXMIN010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Minenhle Louw
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGAMO019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Visagie
+insertcount is 
+8
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXOLE012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Olerato Ndou
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLFAI011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Faith Mogale
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp RDBLET038 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Radebe
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNNOA014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Noah Motaung
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SHBLUB014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lubanzi Shabangu
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTLET044 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Cloete
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLREN017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reneilwe Mogale
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHONT005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Onthatile Mthembu
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp GMDKUN021 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Gumede
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VNXNAL009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Naledi Van
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LYNAMO010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Olyn
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSREM003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Modise
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKNTSH005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Nkuna
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DYNJUN007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Junior Dyantyi
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXJUN007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Junior Booi
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSHANG007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Angel Tshabalala
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRKAT004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katlego Peter
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSTHA002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Thato Nkosi
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp RDBAVA001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Radebe
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SHBOMA018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omaatla Shabangu
+insertcount is 
+10
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGCLEA013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leah Ngcobo
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp STHLUB005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lubanzi Sithole
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BKSWAR008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Warona Beukes
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXKAM055 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamohelo Louw
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SHBMEL025 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Melokuhle Shabangu
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGWAR005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Warona Visagie
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSFAI014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Faith Nkosi
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLKAT079 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katlego Mohlala
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLLIS016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lisakhanya Motloung
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLREL001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Relebohile Mohlala
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHLIS001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lisakhanya Mathebula
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKNLIK019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Likuwe Mokoena
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXREM001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Mosia
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLLAYA002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ayabonga Maluleke
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLAMO018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Daniels
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DMSLET057 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Adams
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDOFE022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ofentse Hendricks
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWAVA004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Ngwenya
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLOTH019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Daniels
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NHLLET074 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Nhlapo
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRLUK013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luke Peter
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp STHLIK021 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Likuwe Sithole
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTLES020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Cloete
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSAMO025 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Booysen
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SHBLUP009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luphawu Shabangu
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXROR006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rorisang Mosia
+insertcount is 
+11
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MFKAYA003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ayabonga Mofokeng
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KLSWAR010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Warona Klaas
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWAPH004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Aphelele Ngwenya
+insertcount is 
+11
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBKAR018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Ngobeni
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXKUN009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Louw
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBOLE018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Olerato Witbooi
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXBOK004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Louw
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LYNALW014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alwande Olyn
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BLYREA009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Baloyi
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CHKLEB013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lebogang Chauke
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBKAM033 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamogelo Ngobeni
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SHBMPH004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mpho Shabangu
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRAMO113 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Peter
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBLIN006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lingomso Jacobs
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp CLTAPH004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Aphelele Cloete
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SMTLET038 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Smith
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHALU009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Buthelezi
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKALU030 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Jack
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKNLUK009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luke Nkuna
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHHLE008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Hlelokuhle Mthembu
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLLIS020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lisakhanya Motloung
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LYNOFE023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ofentse Olyn
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VNXREM008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Van
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SMTLET018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Smith
+insertcount is 
+11
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGLWA011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lwandle Visagie
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLEMI005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Emihle Daniels
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDREM012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Hendricks
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VNXKAR007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Van
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXLET043 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Booi
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKKAR015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Maseko
+insertcount is 
+11
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSTNKO012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Nkosenhle Tsotetsi
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRKAR041 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Peter
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDAMO037 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Hendricks
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNLUP014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luphawu Motaung
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WLLLET015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Williams
+insertcount is 
+9
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDLIK025 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Likuwe Hendricks
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKJOS006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Joshua Maseko
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBBAN015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Banele Ngobeni
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp RDBLEA002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leah Radebe
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHMMIN009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Minenhle Khumalo
+insertcount is 
+9
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXAMO019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Ndou
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNOTH028 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Motaung
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DYNAMO031 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Dyantyi
+insertcount is 
+8
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLXKAT041 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katlego Moloi
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DLMAMO055 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Dlamini
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGAPH009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Aphelele Visagie
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXOMA017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omaatla Mosia
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WTBASE005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Asemahle Witbooi
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBKAR022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Jacobs
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BTHBLE009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Blessing Buthelezi
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BLYBOK010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokang Baloyi
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBKAR027 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Jacobs
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXAMO005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Booi
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBRET010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rethabile Ngobeni
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBBON011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bonolo Ngobeni
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXONT006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Onthatile Ndou
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLSIP012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphosethu Motloung
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MFKMEL010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Melokuhle Mofokeng
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHLIS011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lisakhanya Mathebula
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGANG008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Angel Visagie
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BLYREM003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Baloyi
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHOKU009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Okuhle Mthembu
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXAVA010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Booi
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHKAR017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Abrahams
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NHLKAR022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Nhlapo
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SHBAMO051 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Shabangu
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KLSNAL011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Naledi Klaas
+insertcount is 
+8
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MGLRET004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rethabile Mogale
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXORA026 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Oratilwe Louw
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DYNALW013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alwande Dyantyi
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSHREN005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reneilwe Tshabalala
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLFALU011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Molefe
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHASE015 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Asemahle Abrahams
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXBLE001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Blessing Ndou
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRLIA029 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Liam Peter
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHREM004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Abrahams
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDLEB001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lebogang Hendricks
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGLIA011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Liam Visagie
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXNAL001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Naledi Mosia
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DLMBOK038 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokang Dlamini
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKHLET077 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Mkhize
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp GMDOTH009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Gumede
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNSOLO012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Olothando Mnisi
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLFAI023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Faith Mohlala
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKAMA016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amahle Maseko
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKNSPH014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Sphesihle Mokoena
+insertcount is 
+10
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NHLESI013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Esihle Nhlapo
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWOMA024 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omaatla Ngwenya
+insertcount is 
+11
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXLET023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Booi
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSTAPH002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Aphelele Tsotetsi
+insertcount is 
+10
+opcount is 
+7
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSTNOA002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Noah Tsotetsi
+insertcount is 
+11
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLKAR003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Mahlangu
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp WLLAMO052 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Williams
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBKAM032 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamohelo Ngobeni
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp GMDAMO035 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amohelang Gumede
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDOMA007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omaatla Hendricks
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSKAR024 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Karabo Modise
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSLES005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Nkosi
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp GMDREM001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Remofilwe Gumede
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRROR033 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rorisang Peter
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNSLEB012 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lebogang Mnisi
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSREN006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reneilwe Booysen
+insertcount is 
+9
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZLIN025 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lingomso Khoza
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp TSTALU016 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Alunamda Tsotetsi
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLIMI010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Iminathi Motloung
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKHKUN011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Mkhize
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLKUN028 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kungawo Motloung
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKNLUK009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luke Mokoena
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDOMP013 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omphile Hendricks
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTLAMA005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amahle Motloung
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRROR028 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rorisang Petersen
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXKAM003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamohelo Mosia
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBREA027 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Ngobeni
+insertcount is 
+10
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGBKAT009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katleho Ngobeni
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXENZ024 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Enzokuhle Louw
+insertcount is 
+11
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGANG002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Angel Visagie
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDXREA006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Ndou
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DMSAVA003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Adams
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKNPHE008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Phenyo Nkuna
+insertcount is 
+9
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLLET002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Daniels
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSLET055 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Modise
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLKAM025 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamogelo Ndlovu
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BXXOMA014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omaatla Booi
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VNXMPH001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Mpho Van
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSSIP030 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphesihle Modise
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHONT018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Onthatile Abrahams
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BRHENZ023 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Enzokuhle Abrahams
+insertcount is 
+11
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp RDBKAT020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katleho Radebe
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKNWAR010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Warona Nkuna
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLTORA024 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Oratile Malatji
+insertcount is 
+11
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXBLE006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Blessing Louw
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KLSLIA010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Liam Klaas
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp HNDREA024 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Hendricks
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRLWA027 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lwandle Peter
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KLSTSH032 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Klaas
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHMAPH004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Aphelele Khumalo
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXSIP018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Siphesihle Mosia
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXBOK037 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Louw
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGESI020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Esihle Moeng
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSXAMA008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amahle Mosia
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DVDLIA014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Liam Davids
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTHEMI022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Emihle Mthembu
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp LWXAMO058 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Louw
+insertcount is 
+11
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWAPH017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Aphelele Ngwenya
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MFKROR006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rorisang Mofokeng
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCBLES022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Jacobs
+insertcount is 
+11
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDXROR011 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Rorisang Mudau
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp STHLES006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Sithole
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLLWA006 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lwandle Ndlovu
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NDLOTH020 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Othalive Ndlovu
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp RDBLES022 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lesedi Radebe
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLTLEA021 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leah Malatji
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSAVA003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Ava Nkosi
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKTSH017 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Tshegofatso Jack
+insertcount is 
+11
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp JCKNOA004 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Noah Jack
+insertcount is 
+11
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp PTRASE002 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Asemahle Petersen
+insertcount is 
+9
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHMLUT007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Luthando Khumalo
+insertcount is 
+12
+opcount is 
+8
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNGOLO019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Olothando Moeng
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DMSASE007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Asemahle Adams
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp VSGREA001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reatlegile Visagie
+insertcount is 
+8
+opcount is 
+6
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DNLBOK021 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokang Daniels
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NGWTHA007 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Thato Ngwenya
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp GMDLET032 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Gumede
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDSTHA035 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Thandolwethu Modise
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MTNKAT001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Katlego Motaung
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp DVDBOK010 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Davids
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BYSBOK001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Booysen
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp RDBAMA001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amahle Radebe
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLOMO001 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omolemo Mahlangu
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MLTHLE003 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Hlelokuhle Malatji
+insertcount is 
+12
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNSOMA008 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Omaatla Mnisi
+insertcount is 
+11
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MDKREN014 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Reneilwe Madikizela
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKHBOK039 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Mkhize
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MHLJOS019 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Joshua Mahlangu
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHMAMO059 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Khumalo
+insertcount is 
+12
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MKHBOK005 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Bokamoso Mkhize
+insertcount is 
+11
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp KHZLEA018 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Leano Khoza
+insertcount is 
+12
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp SMTENZ029 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Enzokuhle Smith
+insertcount is 
+10
+opcount is 
+9
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp BKSAMO027 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Amogelang Beukes
+insertcount is 
+11
+opcount is 
+11
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MSKKAM009 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Kamogelo Maseko
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp NKSLET045 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethokuhle Nkosi
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+make[1]: Entering directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'
+java -cp bin AccessAVLApp MNSLET051 inputs/AVL_500.txt
+2
+inputs/AVL_500.txt
+Lethabo Mnisi
+insertcount is 
+10
+opcount is 
+10
+make[1]: Leaving directory '/home/celimpilo/Documents/CSC2001F/Assignments/Assignment2'

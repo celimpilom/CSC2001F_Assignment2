@@ -1,3 +1,9 @@
+/**
+*helper class to readfiles
+*
+* @author Celimpilo Manqele
+* @version 1.0
+*/
 import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner; // Import the Scanner class to read text files
@@ -5,39 +11,32 @@ import java.util.Scanner; // Import the Scanner class to read text files
 public class ReadFile {
     File myObj;
     Scanner myReader;
-    String[] list;
+    String[] slist;
     AVLTree<String> tree;
-    
-    ReadFile() throws FileNotFoundException{
-        myObj = new File("files/oklist.txt");
+    int[] iCountList;
+
+    ReadFile(String filename) throws FileNotFoundException{
+        myObj = new File("files/" + filename);
         myReader = new Scanner(myObj);
-        list = new String[5000];
+        slist = new String[5000];
         tree = new AVLTree<String>();
-    }
-
-    void array() throws FileNotFoundException {
-        int counter = 0;
-          while (myReader.hasNextLine()) {
-            String data = myReader.nextLine();
-            list[counter] = data.toString();
-            counter++;
-        }       
-          myReader.close();
-    }
-
+        iCountList = new int[5000];
+        }
+    
     void tree(){
+        int i = 0;
         while (myReader.hasNextLine()) {
           String data = myReader.nextLine();
           tree.insert(data.toString());
-    
-      }              // Creates BST
-    }
-    public AVLTree<String> getTree(){
-        return this.tree;//returns Tree
+          slist[i] = data.toString();
+          iCountList[i] = tree.insertcount;
+          i++;
+        } 
     }
 
-    public String[] getArray(){
-        return list;
+
+    public AVLTree<String> getTree(){
+        return this.tree;//returns AVL tree
     }
-    
+
 }

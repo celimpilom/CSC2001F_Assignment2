@@ -62,7 +62,7 @@ if __name__ == "__main__":
                 case.writelines(f"max: \n {max(result[i])}\n")
                 case.writelines(f"average: \n {sum(result[i])/len(result[i])}\n")
     
-    #-----------------------------------------------------------------
+    #---------------------------------------------------------------------
     # GRAPH
     table = pandas.DataFrame(columns=pandas.MultiIndex.from_arrays([['find' for i in range(3)]+['insert' for i in range(3)], ["Best case", "Worst case", "Average case"]*2]), index = [n for n in range(500, 5001, 500)])
 

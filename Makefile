@@ -1,3 +1,7 @@
+# assignment 2 make file
+# Celimpilo manqele
+# 19 April 2021
+
 JAVAC=/usr/bin/javac
 .SUFFIXES: .java .class
 SRCDIR=src
@@ -16,15 +20,19 @@ CLASS_FILES=$(CLASSES:%.class=$(BINDIR)/%.class)
 
 default: $(CLASS_FILES)
 
-docs:
-	javadoc -d doc/ src/*.java
-
 run:
-	java -cp bin AccessAVLApp $(stdN)
+	java -cp bin AccessAVLApp $(stdN) $(file)
+
+docs:
+	javadoc -d docs/ src/*.java
 
 experiment:
+	make clean
 	$(PYTHON) script/test.py
-data:
-	$(PYTHON) script/data.py
+
+clean:
+	rm -f files/data/*
+	rm -f files/inputs/*
+	rm -f files/cases/*
 graphs:
 	$(PYTHON) script/graphs.py
